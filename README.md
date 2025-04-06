@@ -1,4 +1,4 @@
-# BadWolf.nvim
+# Badwolf Neovim Port
 
 A port of Steve Losh's [BadWolf](http://stevelosh.com/projects/badwolf/) Vim color scheme to Lua for Neovim.
 
