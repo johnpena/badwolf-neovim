@@ -17,7 +17,7 @@ BadWolf is a dark color scheme with warm colors and carefully selected highlight
 
 ```lua
 {
-  "johnpena/badwolf.nvim",
+  "johnpena/badwolf-neovim",
   lazy = false,
   priority = 1000,
   opts = {
@@ -30,7 +30,7 @@ BadWolf is a dark color scheme with warm colors and carefully selected highlight
 
 ```lua
 use {
-  "johnpena/badwolf.nvim",
+  "johnpena/badwolf-neovim",
   config = function()
     require("badwolf").setup({
       -- configuration goes here, or leave empty for defaults
@@ -42,7 +42,7 @@ use {
 ### Using vim-plug
 
 ```vim
-Plug 'johnpena/badwolf.nvim'
+Plug 'johnpena/badwolf-neovim'
 ```
 
 Then set the colorscheme in your Neovim configuration:
